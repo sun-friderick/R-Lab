@@ -38,22 +38,23 @@
    #### QoS
    
 # 5, Audio and Video Capture.
-   ### Audio sampling.
-   ### Video capture.
+   ### 1) Audio sampling.
+   ### 2) Video capture.
+   
 # 6, Streaming Media Applications
-   ### IPTV.
-   ### Live streaming.
-   ### Video Surveillance
+   ### 1) IPTV.
+   ### 2) Live streaming.
+   ### 3) Video Surveillance
 
 # 7, Video Post-Processing
-   ### Intelligent analysis processing 智能分析处理
-   ### Video fog penetration technology 视频透雾增透技术
-   ### Wide dynamic processing 宽动态处理
-   ### Super-resolution reconstruction processing 超分辨率重建处理
-   ### Deinterlace去交错
-   ### Chroma Upsampling Error (CUE)
-   ### Single-Field Interpolation
-   ### Vertical Filtering
+   ### 1) Intelligent analysis processing 智能分析处理
+   ### 2) Video fog penetration technology 视频透雾增透技术
+   ### 3) Wide dynamic processing 宽动态处理
+   ### 4) Super-resolution reconstruction processing 超分辨率重建处理
+   ### 5) Deinterlace去交错
+   ### 6) Chroma Upsampling Error (CUE)
+   ### 7) Single-Field Interpolation
+   ### 8) Vertical Filtering
     
 # 8, Intelligent Video Analysis
 
